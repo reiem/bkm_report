@@ -1,0 +1,5 @@
+
+REST_API = 'https://restapi.e-conomic.com'
+API_TIMEOUT = 60
+DEFAULT_PAGE_SIZE = 1000
+DEFAULT_DEBITOR_ACCOUNT = 5600

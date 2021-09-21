@@ -1,0 +1,3 @@
+pandas
+openpyxl
+python-economic-rest @ git+https://github.com/reiem/python-economic-rest.git
