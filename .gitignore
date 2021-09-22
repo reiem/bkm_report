@@ -1,0 +1,4 @@
+.vscode
+tests/assets
+*__pycache__
+
