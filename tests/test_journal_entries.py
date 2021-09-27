@@ -4,6 +4,7 @@ from typing import List
 from economic.journals import Journal
 from economic.journal_entries import JournalEntry
 
+
 def test_fetch_journal_entries(auth):
     journal_entries: List[JournalEntry] = []
     journals = Journal.all(auth)
